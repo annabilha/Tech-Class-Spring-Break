@@ -87,3 +87,7 @@ import random
 # True is assigned as 1
 # False is assigned as 0
 
+# and has higher priority than or
+
+
+print('a\')
