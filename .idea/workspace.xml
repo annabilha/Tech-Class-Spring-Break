@@ -13,10 +13,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/techclassmonday.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+            <state relative-caret-position="353">
+              <caret line="177" lean-forward="true" selection-start-line="177" selection-end-line="177" />
               <folding>
-                <marker date="1552934060568" expanded="true" signature="1299:1494" ph="..." />
+                <marker date="1552939168416" expanded="true" signature="1299:1494" ph="..." />
+                <marker date="1552939168416" expanded="true" signature="2685:2837" ph="..." />
               </folding>
             </state>
           </provider>
@@ -220,7 +221,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49963742" visible="true" weight="0.3299566" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49963742" weight="0.3299566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -228,7 +229,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3299566" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3299566" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003626" side_tool="true" weight="0.3299566" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49963742" weight="0.3299566" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" sideWeight="0.49963742" visible="true" weight="0.3299566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -274,10 +275,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/techclassmonday.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+        <state relative-caret-position="353">
+          <caret line="177" lean-forward="true" selection-start-line="177" selection-end-line="177" />
           <folding>
-            <marker date="1552934060568" expanded="true" signature="1299:1494" ph="..." />
+            <marker date="1552939168416" expanded="true" signature="1299:1494" ph="..." />
+            <marker date="1552939168416" expanded="true" signature="2685:2837" ph="..." />
           </folding>
         </state>
       </provider>

@@ -90,3 +90,88 @@
 #     total_value = total_value + (ord(letter)-96)
 #
 # print(total_value)
+
+# def countdown(n):
+#     while n > 0:
+#         print(n)
+#         n = n - 1
+#     print('Blastoff!')
+# countdown(5)
+#
+#
+# team = 'Celtics'
+#
+# print(len(team))
+#
+# letter=team[0]
+# print(letter)
+# letter=team[1]
+# print(letter)
+#
+#
+# letter=team[6]
+# print(letter)
+#
+# print(team[len(team)-1])
+#
+# print(team[-7])
+# print(team[-6])
+# print(team[-5])
+#
+# for letter in team:
+#     print(letter)
+
+# prefixes = "JKLMNOPQ"
+# # suffix = 'ack'
+# # for letter in prefixes:
+# #     if letter == 'O' or letter == 'Q':
+# #         print(letter+'u'+suffix)
+# #     else:
+# #         print(letter+suffix)
+#
+# result = 0
+# for number in range(1,1001):
+#     if number % 2 == 1:   #% means the remainder of number/2
+#         result = result + number
+#
+# print(result)
+
+# team="Celtics"
+# print(team[0:5])
+# print(team[:5])
+# print(team[1:7])
+# print(team[1:])
+#
+# print(team[::2])    #every other letter
+# print(team[::-1])
+
+
+# word = 'New England Patriots'
+# count = 0
+# for letter in word:
+#     if letter == 'a':
+#         count = count + 1
+# print(count)
+#
+# word = 'New England Patriots'
+# count = 0
+# for letter in word:
+#     if letter in 'Ee':
+#         count = count + 1
+# print(count)
+#
+# new_team = ""
+# for letter in word:
+#     if letter != 'a':
+#         new_team = new_team+letter
+# print(new_team)
+#
+# print(word.upper())   # capitalizes
+#
+# print(word.find('a'))    #finds the position
+
+# a='anna'
+# print(a==a[::-1])  #is it a palindrome?
+# new_name = a[:2]+a[-1]
+# print(new_name)
+
