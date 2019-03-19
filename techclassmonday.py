@@ -37,7 +37,8 @@
 #
 # print (quadratic(1,2,-3))      results are 1 and -3
 
-#
+# BMI EXAMPLE
+
 # x=input("What is your weight?")
 # x=float(x)
 # y=input("What is your height?")
@@ -57,6 +58,8 @@
 # elif BMI(x,y) < 18.5:
 #     print("Underweight")
 #
+#FABONACHI EXAMPLE
+
 # def fab(n):
 #     if n==1 or n==2:
 #         return 1
@@ -65,6 +68,8 @@
 #
 # for i in range(1,11):       10 times = 1,11 (1,10 would be 9 times)
 #     print(fab(i))
+
+# ITERATIONS
 
 # sum=0
 # for i in range(1,5):
@@ -79,9 +84,11 @@
 #     print('\tafter adding i, the new sum is {}\n'.format(sum))
 #
 
+#LETTERS AND THEIR VALUES
+
 # name = 'Anna'
 # for letter in name:
-#     print(ord(letter))
+#     print(ord(letter))     #Shows the values for each of the letters separatedly
 
 #calculate the value of your name
 # total_value = 0
@@ -91,6 +98,8 @@
 #
 # print(total_value)
 
+#COUNTDOWN
+
 # def countdown(n):
 #     while n > 0:
 #         print(n)
@@ -98,7 +107,8 @@
 #     print('Blastoff!')
 # countdown(5)
 #
-#
+#ORGANIZING LETTERS
+
 # team = 'Celtics'
 #
 # print(len(team))
@@ -134,7 +144,9 @@
 #     if number % 2 == 1:   #% means the remainder of number/2
 #         result = result + number
 #
-# print(result)
+# print(result)            #it will give the sum of all the even numbers until 1000
+
+#BACK AT PLAYING WITH LETTERS
 
 # team="Celtics"
 # print(team[0:5])
@@ -166,6 +178,7 @@
 #         new_team = new_team+letter
 # print(new_team)
 #
+# FINDS THE POSITION OF THE LETTER
 # print(word.upper())   # capitalizes
 #
 # print(word.find('a'))    #finds the position
@@ -175,3 +188,17 @@
 # new_name = a[:2]+a[-1]
 # print(new_name)
 
+#REPLACE
+# name= 'Anna'
+# print(name.replace('n','m'))
+
+#SPLI (removes the symbol)
+# name='anna'
+# print(name.split('n'))
+#                            #result = ['a', '', 'a']
+
+#STRIP (removes symbol - needs to remove leading character)
+#print('www.example.com'.strip('cmowz.'))    #result = example
+# print('anna'.strip('a'))     results in nn
+# however print('anna'.strip('n')) does not work
+# print('   spacious   '.strip())        #removes the space
